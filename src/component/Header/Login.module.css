@@ -1,0 +1,11 @@
+.formInput {
+    display: block;
+    width: 100%;
+    color: grey;
+    border: 2px solid #BD0707;
+}
+.formInput:focus {
+    border-color: #BD0707;
+    outline: 0;
+    box-shadow: 0 0 0 0.5rem #BD0707;
+  }
